@@ -1,0 +1,1 @@
+<h1 class="text-4xl">TechTalent <span class="font-extrabold">Hub</span></h1>
